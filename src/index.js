@@ -11,3 +11,5 @@ hello("TK");
 /**
  * JavaScriptとは
  */
+
+//  変数まで終了
