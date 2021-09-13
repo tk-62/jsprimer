@@ -126,3 +126,13 @@
 
 // const foo = null;
 // console.log(foo);
+// const obj = {
+//   "key" : "value"
+// };
+// console.log(obj.key);
+// console.log(obj["key"]);
+
+const obj = {
+  "123": "value"
+};
+console.log(obj["123"]);
