@@ -120,4 +120,9 @@
 // o'clock`);
 
 // const str = "文字列";
-// console.log(`これは${str}です`);
+// // console.log(`これは${str}です`);
+
+// console.log(`これは\`${str}\`です`);
+
+// const foo = null;
+// console.log(foo);
