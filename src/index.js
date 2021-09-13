@@ -20,3 +20,15 @@
 // let bookTitle = "JavaScript Primer";
 // bookTitle = "HTML";
 // console.log(bookTitle);
+
+// const TEN_NUMBER = 10;
+// console.log(TEN_NUMBER);
+
+const object = {
+  key: "10",
+  name: "TK"
+};
+object.key = "100";
+
+console.log(object.key);
+console.log(object.name);
