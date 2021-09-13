@@ -69,3 +69,8 @@
 // const array = ["index:0","index:1","index:2"];
 // console.log(array[0]);
 // console.log(array[2]);
+
+const a = 1,
+  b = 2,
+  c = a + b;
+console.log(c);
