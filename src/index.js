@@ -132,7 +132,40 @@
 // console.log(obj.key);
 // console.log(obj["key"]);
 
-const obj = {
-  "123": "value"
-};
-console.log(obj["123"]);
+// const obj = {
+//   "123": "value"
+// };
+// console.log(obj["123"]);
+
+// const emptyArray = [];
+// const array = [1, 2, 3];
+
+// const array = ["index:0","index:1","index:2"];
+// console.log(array[0]);
+// console.log(array[1]);
+
+// const numberRegExp = /\d+/;
+// console.log(numberRegExp.test("123"));
+
+// const str = new String("あいうえお");
+// console.log(typeof str);
+// console.log(str.length);
+
+// const str = "文字列";
+// console.log(typeof str);
+// console.log(str.length);
+
+// // 1 + 2;
+// let num = 1;
+// // num++;
+// ++num;
+// console.log(num);
+// console.log(1 + 1);
+// console.log(10 + 0.5);
+// const value = "マロン"　+ "グラッセ";
+// console.log(value);
+// console.log(1 - 1);
+// console.log(10 - 0.5);
+// console.log(2 * 8);
+// console.log(10 * 0.5);
+// 除算演算子から
