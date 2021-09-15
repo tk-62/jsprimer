@@ -176,11 +176,99 @@
 // console.log(value);
 // console.log(1 - 1);
 // console.log(10 - 0.5);
-console.log(2 * 8);
-console.log(10 * 0.5);
-console.log(8 / 2);
-console.log(10 / 0.5);
-console.log(8 % 2);
-console.log(9 % 2);
-console.log(10 % 0.5);
-console.log(10 % 4.5);
+// console.log(2 * 8);
+// console.log(10 * 0.5);
+// console.log(8 / 2);
+// console.log(10 / 0.5);
+// console.log(8 % 2);
+// console.log(9 % 2);
+// console.log(10 % 0.5);
+// console.log(10 % 4.5);
+
+// console.log(2 ** 4);
+// console.log(Math.pow(2, 3));
+// console.log(+1);
+// console.log(+"1");
+// console.log(+"文字列");
+// console.log(NaN === NaN);
+// console.log(typeof NaN);
+// console.log(Number.isNaN(NaN));
+// console.log(-1);
+// console.log(-(-1));
+// console.log(-"1");
+// console.log(-"文字列");
+// let num = 1;
+// num++;
+// console.log(num);
+// let x = 1;
+// console.log(x++);
+// console.log(x);
+
+// let x = 1;
+// console.log(++x);
+// console.log(x);
+
+// let num = 1;
+// num--;
+// console.log(num);
+
+// let x = 1;
+// console.log(x--);
+// console.log(x);
+
+// let x = 1;
+// console.log(--x);
+// console.log(x);
+
+// console.log(1 === 1);
+// console.log(1 === "1");
+
+// const objA = {};
+// const objB = {};
+// console.log(objA === objB);
+// console.log(objA === objA);
+
+// console.log(1 !== 1);
+// console.log(1 !== "1");
+
+// console.log(1 == 1);
+// console.log("str" == "str");
+// console.log("JavaScript" == "ECMAScript");
+// const objA = {};
+// const objB = {};
+// console.log(objA == objB);
+// console.log(objA == objA);
+
+// console.log(1 == "1");
+// console.log(1 == "01");
+// console.log(0 == false);
+// console.log(0 == null);
+// console.log(null == undefined);
+
+// console.log(42 > 21);
+// console.log(42 > 42);
+// console.log(42 >= 42);
+// console.log(42 >= 43);
+// console.log(42 >= 21);
+
+// const array =[1, 2];
+// // console.log(array[1]);
+// const[a, b] = array;
+// console.log(a);
+// console.log(b);
+
+// const array = ["栗原", "takanori"];
+// const[lName,fName] = array;
+// console.log(lName);
+// console.log(fName);
+
+// const obj = {
+//   "key": "value"
+// };
+// const{ key } = obj;
+// console.log(key);
+
+// console.log(true && "右辺の値");
+// console.log(false && "右辺の値");
+// true && console.log("このコンソールログは実行されます");
+false && console.log("このコンソールログは実行されません");
