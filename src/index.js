@@ -271,4 +271,12 @@
 // console.log(true && "右辺の値");
 // console.log(false && "右辺の値");
 // true && console.log("このコンソールログは実行されます");
-false && console.log("このコンソールログは実行されません");
+// false && console.log("このコンソールログは実行されません");
+
+// const value = "11";
+// if (typeof value === "string" && value === "11") {
+//   console.log(`${value} is string value`);
+// }
+
+// console.log(true || "右辺の値");
+// console.log(false || "右辺の値");
