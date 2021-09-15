@@ -169,3 +169,18 @@
 // console.log(2 * 8);
 // console.log(10 * 0.5);
 // 除算演算子から
+
+// console.log(1 + 2);
+// console.log(10 + 0.5);
+// const value = "破壊的" + "衝動";
+// console.log(value);
+// console.log(1 - 1);
+// console.log(10 - 0.5);
+console.log(2 * 8);
+console.log(10 * 0.5);
+console.log(8 / 2);
+console.log(10 / 0.5);
+console.log(8 % 2);
+console.log(9 % 2);
+console.log(10 % 0.5);
+console.log(10 % 4.5);
