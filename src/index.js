@@ -355,3 +355,37 @@
 
 // const max = Math.max(1, 2, 4, 10);
 // console.log(max);
+
+// function fn(...args){
+//   console.log(args);
+// }
+// fn("あ", "い", "うえお");
+
+// function fn(arg1, ...restArgs){
+//   console.log(arg1);
+//   console.log(restArgs);
+// }
+// fn("a","b","c");
+
+// function fn(x, y, z){
+//   console.log(x);
+//   console.log(y);
+//   console.log(z);
+// }
+// const array = [5, 2, 3];
+// fn(...array);
+
+// function fn(){
+//   console.log(arguments[0]);
+//   console.log(arguments[1]);
+//   console.log(arguments[2]);
+// }
+// fn("マロン","オレンジ","レモン");
+
+// function printUserId({id}){
+//   console.log(id);
+// }
+// const user = {
+//   id: 100,
+// };
+// printUserId(user);
