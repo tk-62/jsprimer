@@ -326,3 +326,32 @@
 // }
 // console.log(argumentsToArray(2, 3));
 // console.log(argumentsToArray(2));
+
+// function echo(x = "マロン") {
+//   return x;
+// }
+// console.log(echo());
+
+// function addPrefix(text, prefix = "デフォルト:") {
+//   return prefix + text;
+// }
+// console.log(addPrefix("漢字"));
+// console.log(addPrefix("漢字", ""));
+// console.log(addPrefix("漢字", "常用"));
+
+// function addPrefix(text, prefix){
+//   const pre = prefix ?? "デフォルト:";
+//   return pre + text;
+// }
+// console.log(addPrefix("漢字"));
+// console.log(addPrefix("漢字", ""));
+// console.log(addPrefix("漢字", "常用"));
+
+// function add(x, y){
+//   return x + y;
+// }
+// console.log(add(1, 2));
+// console.log(add(2, 2, 4));
+
+// const max = Math.max(1, 2, 4, 10);
+// console.log(max);
