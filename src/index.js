@@ -303,3 +303,26 @@
 // const num = Number(input);
 // console.log(typeof num);
 // console.log(num);
+
+// const userInput = "10";
+// const num = Number.parseInt(userInput, 10);
+// if (!Number.isNaN(num)) {
+//   console.log("NaNではない値にパースできた", num);
+// }
+
+// function double(num){
+//   return num * 2;
+// }
+// console.log(double(10));
+
+// function echo(x){
+//   return x;
+// }
+// console.log(echo(1));
+// console.log(echo());
+
+// function argumentsToArray(x, y){
+//   return [x, y];
+// }
+// console.log(argumentsToArray(2, 3));
+// console.log(argumentsToArray(2));
