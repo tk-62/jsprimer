@@ -280,3 +280,26 @@
 
 // console.log(true || "右辺の値");
 // console.log(false || "右辺の値");
+
+// 厳密等価演算子
+// console.log(1 === "1");
+
+// console.log(1 + true);
+
+// console.log(Boolean("string"));
+// console.log(Boolean(1));
+
+// let x;
+// if(x === undefined){
+//   console.log("xがundifinedなら表示");
+// }
+
+// const input = window.prompt("数字を入力してください", "42");
+// const num = Number(input);
+// console.log(typeof num);
+// console.log(num);
+
+// const input = window.prompt("数字を入力してください", "4");
+// const num = Number(input);
+// console.log(typeof num);
+// console.log(num);
