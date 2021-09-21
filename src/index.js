@@ -389,3 +389,14 @@
 //   id: 100,
 // };
 // printUserId(user);
+
+// const user = {
+//   id: 42
+// };
+// // const { id } = user;
+// // console.log(id);
+
+// function printUserId({ id }) {
+//   console.log(id);
+// }
+// printUserId(user);
